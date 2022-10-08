@@ -8,7 +8,7 @@ Telegram BOT for DRPCIV. That that notifies you the most recent appointment date
 ## Settings:
 ` https://www.drpciv.ro/drpciv-booking-api/getAvailableDaysForSpecificService/{operation}/{judet_code}/ `
 
-#### [Operation's](https://www.drpciv.ro/drpciv-booking-api/counties)
+#### [Operation's](https://www.drpciv.ro/drpciv-booking-api/operations/)
 #### [Judet code's](https://www.drpciv.ro/drpciv-booking-api/counties)
 
 ## Setup
